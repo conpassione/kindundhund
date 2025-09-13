@@ -20,7 +20,23 @@ Die Architektur wurde mit der C4-Methode erstellt.
 ![Systemarchitektur KuH-CMaW](Systemuebersicht.webp)
 
 # Komponenten
+Für jede Komponente gibt es eine individuelle Extension.
 ## TeamManagement
 Hier wird alles, was ein Team betrifft abgearbeitet. Von der Anmeldung als
 neues Team über die Ausbildung, die Anmeldung für Weiterbildungen, die
 Verwaltung des Profils und der Skills, etc.
+## InterventionsManagement
+Erstellen von Interventionen mit unterschiedlichen Typen
+## ZuordnungsManagement
+Zuordnen von Teams zu Interventionen inkl. der Aufgaben
+## KalenderServices
+Verwaltet alle Termine von Interventionen, QS, Ausbildung, Vereinstermine, etc.
+## FinanzManagement
+Stellt die Grundlagen für die jährliche oder halbjährliche Abrechnung mit
+den Teams bereit. Zudem können über das FinanzManagement auch Rechnungen für
+die verschiedenen Interventionen ausgelöst werden.
+## QS-Management
+Erstellt die QS-Termine und überwacht die Teams, damit sie genügend
+QS-Termine besuchen.
+## RS-Services
+Stellt Statistiken und Reports zur Verfügung
