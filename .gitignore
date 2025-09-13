@@ -1,0 +1,12 @@
+.ddev/
+.DS_Store
+.idea/
+composer.lock
+/node_modules/
+/packages/
+/public/_assets/
+/public/typo3/
+/public/typo3temp/
+/public/index.php
+/var/
+/vendor/
