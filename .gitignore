@@ -10,3 +10,5 @@ composer.lock
 /public/index.php
 /var/
 /vendor/
+.env
+.env-cyon
