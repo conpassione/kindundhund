@@ -17,10 +17,11 @@
 	],
 	"license": "GPL-2.0-or-later",
 	"minimum-stability": "dev",
-	"prefer-stable" : true,
+	"prefer-stable": true,
 	"version": "1.0.0",
 	"require": {
 		"b13/doktypemapper": "*",
+		"conpassione/kuhdist": "dev-main",
 		"friendsoftypo3/content-blocks": "*",
 		"helhum/dotenv-connector": "*",
 		"typo3/cms-adminpanel": "^13.4",
@@ -55,9 +56,7 @@
 		"typo3/cms-tstemplate": "^13.4",
 		"typo3/cms-viewpage": "^13.4",
 		"typo3/cms-webhooks": "^13.4",
-		"typo3/minimal": "^13.4",
-		"conpassione/cpdevsite": "*",
-		"conpassione/cpdevsite": "*"
+		"typo3/minimal": "^13.4"
 	},
 	"require-dev": {
 		"roave/security-advisories": "dev-latest",

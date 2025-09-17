@@ -4,7 +4,7 @@ Die Extension wird von der [conPassione gmbh](https://www.conpassione.ch) zur Ve
 
 KIND&HUND ist ein Verein, welcher sich um den Themenkomplex Kinder und Hunde
 kümmert. Er organisiert Präventionseinsätze in Schulen, Einzelinterventionen
-für Kinder mit Hundeangst und Lesehundeinsätze für Kinder mit Leseschwäche.
+für Kinder mit Hundeangst und Lesehundeeinsätze für Kinder mit Leseschwäche.
 Zudem bildet der Verein Klassenhunde und Besuchshunde aus, welche mit ihrer
 Präsenz in der Klasse zur Verbesserung des sozialen Klimas beitragen, die
 Klasse ruhiger und konzentrierter machen.
@@ -40,3 +40,7 @@ Erstellt die QS-Termine und überwacht die Teams, damit sie genügend
 QS-Termine besuchen.
 ## RS-Services
 Stellt Statistiken und Reports zur Verfügung
+
+# Impressum
+Das KIND&HUND Club Management and Website wurde durch die [conPassione gmbh](https://www.conpassione.ch)
+erstellt auf der Basis von [TYPO3 Content Management System](https://typo3.org)
